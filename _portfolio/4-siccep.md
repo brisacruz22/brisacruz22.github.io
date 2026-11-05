@@ -2,7 +2,12 @@
 title: "Los 564 continuos poblados oficiales del Perú, listos para descargar"
 excerpt: "Extraje la base geográfica detrás del geovisor SICCEP del Ministerio de Vivienda, que no ofrece descarga directa."
 collection: portfolio
+header:
+  teaser: siccep-continuos-poblados.png
 ---
+
+![Los 564 continuos poblados, por categoría y población. Elaboración propia con los datos extraídos.](/images/siccep-continuos-poblados.png)
+*Los 564 continuos poblados, por categoría y población. Elaboración propia con los datos extraídos.*
 
 **Pregunta.** ¿Cómo trabajar con las ciudades del Perú según cómo crecen de verdad, y no según límites distritales?
 

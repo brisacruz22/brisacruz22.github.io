@@ -2,7 +2,12 @@
 title: "Minería y empoderamiento femenino en los Andes (2010–2023)"
 excerpt: "ENDES + SIRTOD: cómo se asocia la cercanía a la minería con la autonomía de las mujeres de la sierra peruana."
 collection: portfolio
+header:
+  teaser: tesis-produccion-minera.png
 ---
+
+![Valor de la producción minera, 2005–2023 (millones de dólares). Figura de la tesis.](/images/tesis-produccion-minera.png)
+*Valor de la producción minera, 2005–2023 (millones de dólares). Figura de la tesis.*
 
 **Pregunta.** ¿La actividad minera cambia el empoderamiento de las mujeres en la sierra peruana?
 

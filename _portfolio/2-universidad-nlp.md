@@ -2,7 +2,12 @@
 title: "¿Qué es una «universidad» para el Estado peruano? (en proceso)"
 excerpt: "NLP sobre 46 documentos de política universitaria peruana, de la liberalización a la contrarreforma. Trabajo en curso."
 collection: portfolio
+header:
+  teaser: nlp-corpus.png
 ---
+
+![Palabras limpias por momento regulatorio.](/images/nlp-corpus.png)
+*Palabras limpias por momento regulatorio.*
 
 **En proceso.** Esta versión va a cambiar: la comparto para mostrar el trabajo mientras avanza.
 
