@@ -10,7 +10,7 @@
   if (location.pathname !== "/" && location.pathname !== "/index.html") return;
   var items = Array.prototype.slice.call(document.querySelectorAll(".visible-links .masthead__menu-item"));
   var home = items[0];
-  var map = [["proyectos", "#proyectos"], ["publicaciones", "#publicaciones"], ["cv", "cv-brisa-cruz.pdf"]]
+  var map = [["proyectos", "#proyectos"], ["trabajo-de-campo", "#trabajo-de-campo"], ["publicaciones", "#publicaciones"], ["cv", "cv-brisa-cruz.pdf"]]
     .map(function (m) {
       var li = items.filter(function (i) { var a = i.querySelector("a"); return a && a.getAttribute("href") && a.getAttribute("href").indexOf(m[1]) !== -1; })[0];
       return { el: document.getElementById(m[0]), li: li };

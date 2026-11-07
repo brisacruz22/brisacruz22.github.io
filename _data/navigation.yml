@@ -1,6 +1,8 @@
 main:
   - title: "Proyectos"
     url: /#proyectos
+  - title: "Trabajo de campo"
+    url: /#trabajo-de-campo
   - title: "Publicaciones"
     url: /#publicaciones
   - title: "CV"
