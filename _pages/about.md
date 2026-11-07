@@ -40,11 +40,6 @@ Soy socióloga por la Pontificia Universidad Católica del Perú y asistente de 
 
 <div class="campo">
 
-<h3>Expansión urbana y acceso al agua en ocho ciudades</h3>
-<p class="campo-meta">GRADE, por encargo de la Confederación de Desarrolladores Inmobiliarios del Perú (CODIP) · 2026 · Asistente de investigación</p>
-<p>Estimé cuántas de las nuevas edificaciones levantadas entre 2017 y 2024 en Arequipa, Chiclayo, Huancayo, Ica, Lima, Piura, Tarapoto y Trujillo acceden a agua potable. Combiné la cartografía oficial de manzanas, Open Buildings y datos de SUNASS, y clasifiqué a mano la expansión formal e informal con imágenes satelitales y Street View.</p>
-<p>Resultados preliminares en El Comercio: <a href="https://elcomercio.pe/economia/obras-de-saneamiento-demoraron-casi-dos-anos-en-pasar-de-las-inmobiliarias-a-las-empresas-de-agua-segun-grade-noticia/" target="_blank" rel="noopener">nota 1</a> · <a href="https://elcomercio.pe/lima/sucesos/la-ciudad-crece-mas-rapido-que-las-redes-de-agua-por-que-la-brecha-sigue-aumentando-pese-a-la-inversion-apuesplan-noticia/" target="_blank" rel="noopener">nota 2</a></p>
-
 <h3>Familias ganaderas frente a crisis en Tanta, Yauyos</h3>
 <p class="campo-meta">GRADE · noviembre–diciembre 2024 · Asistente de investigación en campo</p>
 <div class="campo-fotos"><img src="/images/campo-yauyos-alpacas.jpg" alt="Alpacas en un corral de piedra en la puna de Yauyos"><img src="/images/campo-yauyos-mapa.jpg" alt="Mapa parlante elaborado en un taller"><img src="/images/campo-yauyos-taller.jpg" alt="Taller con madres de familia ganaderas"></div>
